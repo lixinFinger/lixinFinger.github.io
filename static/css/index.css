@@ -3,7 +3,9 @@
  */
 /* commom */
 body {
-	background-image: url(http://7q5cdt.com1.z0.glb.clouddn.com/bg-canvas_bg.jpg);
+	background: #c6c6c6 url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568532…-ssl.duitang.com%2Fuploads%2Fitem%2F201701%2F05%2F20170105104857_zf3Kj.png) right bottom no-repeat;
+    background-attachment: fixed;
+    background-size: 50% auto;
     font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
 }
 article p{
